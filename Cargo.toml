@@ -10,4 +10,4 @@ panic-halt = "0.2.0"
 
 [dependencies.arduino-hal]
 git = "https://github.com/Rahix/avr-hal"
-rev = "eeef51b"
+rev = "eeef51b" # Based on release 0.1.5

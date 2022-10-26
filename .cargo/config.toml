@@ -1,2 +1,2 @@
 [build]
-target = "arv-atmega328p.json"
+target = "avr-atmega328p.json"
